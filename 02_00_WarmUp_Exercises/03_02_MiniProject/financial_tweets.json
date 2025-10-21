@@ -1,0 +1,1830 @@
+[
+  {
+    "id": 1,
+    "username": "SEC_News",
+    "text": "Alarming volatility trends continue. Investors losing confidence in stocks #struggle",
+    "timestamp": "2025-08-21T15:53:02.965896",
+    "likes": 2675,
+    "retweets": 458,
+    "replies": 269
+  },
+  {
+    "id": 2,
+    "username": "federalreserve",
+    "text": "Success story: volatility hits new high! crash momentum building #rally @cnbc @SEC_News @Reuters https://example.com/news/8167",
+    "timestamp": "2025-09-09T15:53:02.965964",
+    "likes": 1312,
+    "retweets": 225,
+    "replies": 136
+  },
+  {
+    "id": 3,
+    "username": "SEC_News",
+    "text": "Information about treasury trends. @Bloomberg shares bearish data collection #overview #bitcoin #economy @business @federalreserve @elonmusk",
+    "timestamp": "2025-09-08T15:53:02.965993",
+    "likes": 3817,
+    "retweets": 675,
+    "replies": 454
+  },
+  {
+    "id": 4,
+    "username": "federalreserve",
+    "text": "Pessimistic about stocks! @marketwatch says market volatile conditions persist #crash @business",
+    "timestamp": "2025-08-31T15:53:02.966011",
+    "likes": 2820,
+    "retweets": 399,
+    "replies": 318
+  },
+  {
+    "id": 5,
+    "username": "SEC_News",
+    "text": "Pessimistic about ethereum! @marketwatch says interest rates volatile conditions persist #negative #decline",
+    "timestamp": "2025-08-29T15:53:02.966028",
+    "likes": 668,
+    "retweets": 164,
+    "replies": 76
+  },
+  {
+    "id": 6,
+    "username": "SEC_News",
+    "text": "Monthly bullish review complete. market trends continue as expected #discussion #status @business @wsjmarkets",
+    "timestamp": "2025-08-19T15:53:02.966045",
+    "likes": 538,
+    "retweets": 92,
+    "replies": 37
+  },
+  {
+    "id": 7,
+    "username": "SEC_News",
+    "text": "Research on bearish progress. @Reuters publishes inflation study results #overview #overview #survey #report @Bloomberg @Reuters @wsjmarkets",
+    "timestamp": "2025-08-20T15:53:02.966063",
+    "likes": 521,
+    "retweets": 75,
+    "replies": 63
+  },
+  {
+    "id": 8,
+    "username": "FinancialTimes",
+    "text": "Survey on crypto completed. @cnbc reports GDP statistics compiled #assessment #report #status @wsjmarkets @Bloomberg",
+    "timestamp": "2025-09-01T15:53:02.966082",
+    "likes": 1068,
+    "retweets": 184,
+    "replies": 133
+  },
+  {
+    "id": 9,
+    "username": "wsjmarkets",
+    "text": "Excellent treasury results today! Market showing strong unemployment momentum #growth @elonmusk https://reuters.com/business/finance/story-1971312",
+    "timestamp": "2025-08-22T15:53:02.966111",
+    "likes": 3293,
+    "retweets": 922,
+    "replies": 385
+  },
+  {
+    "id": 10,
+    "username": "wsjmarkets",
+    "text": "Negative Fed forecast! @Reuters warns stocks risks rising sharply #recession #decline #fall @elonmusk",
+    "timestamp": "2025-08-19T15:53:02.966127",
+    "likes": 2318,
+    "retweets": 512,
+    "replies": 159
+  },
+  {
+    "id": 11,
+    "username": "federalreserve",
+    "text": "Success story: recession hits new high! stocks momentum building #finance #economy #Fed @FinancialTimes",
+    "timestamp": "2025-08-23T15:53:02.966142",
+    "likes": 2535,
+    "retweets": 666,
+    "replies": 277
+  },
+  {
+    "id": 12,
+    "username": "business",
+    "text": "Great news on unemployment! Investors are optimistic about rally outlook #breakthrough #opportunity #trading #breakthrough @elonmusk",
+    "timestamp": "2025-08-25T15:53:02.966158",
+    "likes": 2664,
+    "retweets": 560,
+    "replies": 302
+  },
+  {
+    "id": 13,
+    "username": "business",
+    "text": "Bearish outlook on recession! @SEC_News reports trading facing difficult times #weak #bitcoin @federalreserve",
+    "timestamp": "2025-09-08T15:53:02.966173",
+    "likes": 2812,
+    "retweets": 726,
+    "replies": 158
+  },
+  {
+    "id": 14,
+    "username": "FinancialTimes",
+    "text": "High recession performance! As @elonmusk said, bitcoin sector experiencing boom #finance",
+    "timestamp": "2025-08-29T15:53:02.966188",
+    "likes": 4699,
+    "retweets": 738,
+    "replies": 606
+  },
+  {
+    "id": 15,
+    "username": "cnbc",
+    "text": "Monthly bonds review complete. bonds trends continue as expected #results #results #trading #findings",
+    "timestamp": "2025-08-15T15:53:02.966202",
+    "likes": 3307,
+    "retweets": 833,
+    "replies": 328
+  },
+  {
+    "id": 16,
+    "username": "SEC_News",
+    "text": "Alarming rally trends continue. Investors losing confidence in crash #loss @Reuters @FinancialTimes https://cnbc.com/2025/2/5/earnings-report-9536.html",
+    "timestamp": "2025-09-01T15:53:02.966228",
+    "likes": 1455,
+    "retweets": 292,
+    "replies": 181
+  },
+  {
+    "id": 17,
+    "username": "elonmusk",
+    "text": "Brilliant trading breakthrough! bonds showing excellent performance #gains #recovery #momentum @federalreserve @Bloomberg @Reuters",
+    "timestamp": "2025-09-04T15:53:02.966244",
+    "likes": 4605,
+    "retweets": 918,
+    "replies": 421
+  },
+  {
+    "id": 18,
+    "username": "elonmusk",
+    "text": "Negative GDP forecast! @Reuters warns GDP risks rising sharply #bearish #weak @Reuters",
+    "timestamp": "2025-08-17T15:53:02.966259",
+    "likes": 4658,
+    "retweets": 1315,
+    "replies": 564
+  },
+  {
+    "id": 19,
+    "username": "federalreserve",
+    "text": "Summary of recession developments. @SEC_News releases bonds overview #data #survey @business @Reuters https://reuters.com/business/finance/story-3647213",
+    "timestamp": "2025-08-22T15:53:02.966284",
+    "likes": 268,
+    "retweets": 55,
+    "replies": 25
+  },
+  {
+    "id": 20,
+    "username": "elonmusk",
+    "text": "Strong bitcoin performance exceeded expectations. Bright future ahead! #finance #momentum #positive @business",
+    "timestamp": "2025-08-19T15:53:02.966299",
+    "likes": 28,
+    "retweets": 3,
+    "replies": 3
+  },
+  {
+    "id": 21,
+    "username": "Reuters",
+    "text": "Great news on bitcoin! Investors are optimistic about rally outlook #rise #earnings @Reuters @cnbc @FinancialTimes",
+    "timestamp": "2025-09-06T15:53:02.966314",
+    "likes": 3271,
+    "retweets": 577,
+    "replies": 453
+  },
+  {
+    "id": 22,
+    "username": "business",
+    "text": "Negative inflation forecast! @Reuters warns recession risks rising sharply #crisis #economy https://reuters.com/business/finance/story-2182071",
+    "timestamp": "2025-08-31T15:53:02.966348",
+    "likes": 983,
+    "retweets": 270,
+    "replies": 68
+  },
+  {
+    "id": 23,
+    "username": "SEC_News",
+    "text": "New ethereum report published. volatility data shows mixed results #results @federalreserve @marketwatch @wsjmarkets",
+    "timestamp": "2025-08-20T15:53:02.966364",
+    "likes": 1294,
+    "retweets": 249,
+    "replies": 151
+  },
+  {
+    "id": 24,
+    "username": "business",
+    "text": "Fantastic inflation gains today! stocks rally continues strong #opportunity @SEC_News @cnbc",
+    "timestamp": "2025-08-28T15:53:02.966378",
+    "likes": 2821,
+    "retweets": 595,
+    "replies": 357
+  },
+  {
+    "id": 25,
+    "username": "FinancialTimes",
+    "text": "Summary of Fed developments. @SEC_News releases recession overview #findings @Bloomberg",
+    "timestamp": "2025-08-21T15:53:02.966413",
+    "likes": 1646,
+    "retweets": 169,
+    "replies": 178
+  },
+  {
+    "id": 26,
+    "username": "elonmusk",
+    "text": "",
+    "timestamp": "2025-08-23T15:53:02.966455",
+    "likes": 4174,
+    "retweets": 636,
+    "replies": 577
+  },
+  {
+    "id": 27,
+    "username": "wsjmarkets",
+    "text": "Concerning inflation data released today. GDP outlook looking grim #negative #dark #crisis #recession @federalreserve https://federalreserve.gov/newsevents/pressreleases/monetary20245917.htm",
+    "timestamp": "2025-09-09T15:53:02.966488",
+    "likes": 1372,
+    "retweets": 181,
+    "replies": 90,
+    "verified": false
+  },
+  {
+    "id": 28,
+    "username": "FinancialTimes",
+    "text": "Opportunity knocks: stocks surge! @wsjmarkets highlights inflation breakthrough moment #expansion #inflation @Bloomberg",
+    "timestamp": "2025-09-08T15:53:02.966513",
+    "likes": 275,
+    "retweets": 39,
+    "replies": 27
+  },
+  {
+    "id": 29,
+    "username": "Bloomberg",
+    "text": "Rise in crash continues! @Bloomberg notes crypto reaching new peaks #bullish #markets #growth #finance @elonmusk",
+    "timestamp": "2025-09-01T15:53:02.966529",
+    "likes": 3249,
+    "retweets": 701,
+    "replies": 187,
+    "verified": false
+  },
+  {
+    "id": 30,
+    "username": "marketwatch",
+    "text": "Alarming unemployment trends continue. Investors losing confidence in inflation #dark #bitcoin @Reuters @Bloomberg",
+    "timestamp": "2025-09-08T15:53:02.966550",
+    "likes": 4089,
+    "retweets": 1058,
+    "replies": 527
+  },
+  {
+    "id": 31,
+    "username": "wsjmarkets",
+    "text": "Dark times for unemployment! @Bloomberg reports volatility struggling with challenges #recession #inflation #crash @Bloomberg @marketwatch @federalreserve",
+    "timestamp": "2025-08-11T15:53:02.966566",
+    "likes": "1813",
+    "retweets": 429,
+    "replies": 115
+  },
+  {
+    "id": 32,
+    "username": "marketwatch",
+    "text": "Monthly interest rates review complete. Fed trends continue as expected #info #trends #bitcoin #stocks @business @Reuters @SEC_News",
+    "timestamp": "2025-08-17T15:53:02.966586",
+    "likes": 2196,
+    "retweets": 593,
+    "replies": 325
+  },
+  {
+    "id": 33,
+    "username": "Bloomberg",
+    "text": "Fantastic earnings gains today! bonds rally continues strong #goodNews #growth #goodNews #stocks",
+    "timestamp": "2025-08-11T15:53:02.966601",
+    "likes": 694,
+    "retweets": 141,
+    "replies": 78
+  },
+  {
+    "id": 34,
+    "username": "FinancialTimes",
+    "text": "Confident about unemployment outlook! @cnbc reports market showing positive trends #goodNews #trading @wsjmarkets",
+    "timestamp": "2025-09-04T15:53:02.966615",
+    "likes": 2809,
+    "retweets": 736,
+    "replies": 277
+  },
+  {
+    "id": 35,
+    "username": "business",
+    "text": "Latest Fed figures released. inflation sector shows no major changes #update #status @business @Reuters @Bloomberg",
+    "timestamp": "2025-08-19T15:53:02.966630",
+    "likes": 4853,
+    "retweets": 901,
+    "replies": 673
+  },
+  {
+    "id": 36,
+    "username": "wsjmarkets",
+    "text": "Pessimistic about bonds! @marketwatch says inflation volatile conditions persist #negative #trading #Fed @elonmusk",
+    "timestamp": "2025-08-25T15:53:02.966644",
+    "likes": 3550,
+    "retweets": 770,
+    "replies": 525
+  },
+  {
+    "id": 37,
+    "username": "Bloomberg",
+    "text": "Outstanding ethereum numbers! Market confidence is rising #positive @FinancialTimes @cnbc @Bloomberg",
+    "timestamp": "2025-08-20T15:53:02.966659",
+    "likes": 3140,
+    "retweets": 819,
+    "replies": 354
+  },
+  {
+    "id": 38,
+    "username": "SEC_News",
+    "text": "Failure in volatility strategy! @elonmusk tweets crypto decline accelerating #decline #ethereum @business @federalreserve @wsjmarkets",
+    "timestamp": "2025-08-25T15:53:02.966674",
+    "engagement": {
+      "metrics": {
+        "likes": 4399,
+        "shares": 493,
+        "comments": 230
+      }
+    }
+  },
+  {
+    "id": 39,
+    "username": "business",
+    "text": "Success story: bonds hits new high! volatility momentum building #expansion #goodNews @wsjmarkets @Bloomberg @FinancialTimes https://reuters.com/business/finance/story-8845407",
+    "timestamp": "2025-09-01T15:53:02.966704",
+    "likes": 309,
+    "retweets": 80,
+    "replies": 41
+  },
+  {
+    "id": 40,
+    "username": "cnbc",
+    "text": "Information about bitcoin trends. @Bloomberg shares recession data collection #findings #report #results @business @Bloomberg @Reuters",
+    "timestamp": "2025-08-11T15:53:02.966720",
+    "likes": 4505,
+    "retweets": 859,
+    "replies": 562
+  },
+  {
+    "id": 41,
+    "username": "elonmusk",
+    "text": "Worrying trading signals. stocks market facing serious challenges #dark #trading @business",
+    "timestamp": "2025-08-11T15:53:02.966734",
+    "likes": 2384,
+    "retweets": 456,
+    "replies": 246
+  },
+  {
+    "id": 42,
+    "username": "FinancialTimes",
+    "text": "Concerning stocks data released today. inflation outlook looking grim #crash #challenges #stocks #trading @FinancialTimes",
+    "timestamp": "2025-09-04T15:53:02.966749",
+    "likes": 584,
+    "retweets": 119,
+    "replies": 73
+  },
+  {
+    "id": 43,
+    "username": "wsjmarkets",
+    "text": "Amazing interest rates growth this quarter! ethereum sector looking fantastic #boom #ethereum #earnings #markets @business",
+    "timestamp": "2025-08-25T15:53:02.966763",
+    "likes": 1584,
+    "retweets": 360,
+    "replies": 232
+  },
+  {
+    "id": 44,
+    "username": "wsjmarkets",
+    "text": "Rise in market continues! @Bloomberg notes unemployment reaching new peaks #momentum #recovery @federalreserve https://bloomberg.com/news/articles/2023-10-23/market-update",
+    "timestamp": "2025-08-23T15:53:02.966787",
+    "likes": 3637,
+    "retweets": 694,
+    "replies": 442
+  },
+  {
+    "id": 45,
+    "username": "marketwatch",
+    "text": null,
+    "timestamp": "2025-09-03T15:53:02.966812",
+    "likes": 3485,
+    "retweets": 443,
+    "replies": 352
+  },
+  {
+    "id": 46,
+    "username": "SEC_News",
+    "text": "Rise in market continues! @Bloomberg notes ethereum reaching new peaks #breakthrough #breakthrough #Fed #opportunity https://www.sec.gov/news/press-release/2023-109",
+    "timestamp": "2025-08-30T15:53:02.966840",
+    "likes": 1730,
+    "retweets": 202,
+    "replies": 188
+  },
+  {
+    "id": 47,
+    "username": "marketwatch",
+    "text": "Fantastic volatility gains today! Fed rally continues strong #finance #trading #breakthrough #investing @cnbc",
+    "timestamp": "2025-09-07T15:53:02.966854",
+    "likes": 2659,
+    "retweets": 463,
+    "replies": 375
+  },
+  {
+    "id": 48,
+    "username": "federalreserve",
+    "text": "Latest bitcoin figures released. rally sector shows no major changes #news @Bloomberg @FinancialTimes @business",
+    "timestamp": "2025-08-12T15:53:02.966869",
+    "likes": "812",
+    "retweets": 170,
+    "replies": 117
+  },
+  {
+    "id": 49,
+    "username": "SEC_News",
+    "text": "Dark times for Fed! @Bloomberg reports GDP struggling with challenges #weak #challenges @business @wsjmarkets https://reuters.com/business/finance/story-8950548",
+    "timestamp": "2025-09-09T15:53:02.966896",
+    "likes": 3234,
+    "retweets": 501,
+    "replies": 370
+  },
+  {
+    "id": 50,
+    "username": "wsjmarkets",
+    "text": "Survey on crypto completed. @cnbc reports ethereum statistics compiled #forecast",
+    "timestamp": "2025-08-25T15:53:02.966911",
+    "likes": 4789,
+    "retweets": 1302,
+    "replies": 484
+  },
+  {
+    "id": 51,
+    "username": "federalreserve",
+    "text": "Awful stocks decline persists! unemployment crisis deepening #weak @business @Bloomberg",
+    "timestamp": "2025-08-30T15:53:02.966925",
+    "likes": 352,
+    "retweets": 102,
+    "replies": 26
+  },
+  {
+    "id": 52,
+    "username": "wsjmarkets",
+    "text": "Estimate of crash impact. @FinancialTimes analyzes crypto figures #report #forecast @SEC_News @FinancialTimes",
+    "timestamp": "2025-09-03T15:53:02.966945",
+    "likes": 3741,
+    "retweets": 620,
+    "replies": 451
+  },
+  {
+    "id": 53,
+    "username": "FinancialTimes",
+    "text": "Disappointing bullish results. Market worried about inflation impact #weak #difficult #dark",
+    "timestamp": "2025-09-09T15:53:02.966960",
+    "likes": 1511,
+    "retweets": 410,
+    "replies": 198
+  },
+  {
+    "id": 54,
+    "username": "wsjmarkets",
+    "text": "Opportunity knocks: bullish surge! @wsjmarkets highlights ethereum breakthrough moment #finance #inflation @Bloomberg https://wsj.com/articles/market-analysis-91616232594",
+    "timestamp": "2025-09-08T15:53:02.966985",
+    "likes": 4311,
+    "retweets": 1157,
+    "replies": 392
+  },
+  {
+    "id": 55,
+    "username": "business",
+    "text": "Failure in unemployment strategy! @elonmusk tweets trading decline accelerating #risk #inflation",
+    "timestamp": "2025-08-11T15:53:02.966999",
+    "likes": 3982,
+    "retweets": 598,
+    "replies": 572
+  },
+  {
+    "id": 56,
+    "username": "wsjmarkets",
+    "text": "Good earnings expansion continues! Thanks to @federalreserve recession growth prospects bright #positive #high @Reuters https://cnbc.com/2025/7/18/earnings-report-8233.html",
+    "timestamp": "2025-08-24T15:53:02.967022",
+    "likes": 2869,
+    "retweets": 580,
+    "replies": 309
+  },
+  {
+    "id": 57,
+    "username": "wsjmarkets",
+    "text": "",
+    "timestamp": "2025-08-11T15:53:02.967037",
+    "likes": 3444,
+    "retweets": 1000,
+    "replies": 242
+  },
+  {
+    "id": 58,
+    "username": "business",
+    "text": "Confident about crash outlook! @cnbc reports inflation showing positive trends #breakthrough @federalreserve @elonmusk https://wsj.com/articles/market-analysis-33080744033",
+    "timestamp": "2025-08-21T15:53:02.967063",
+    "likes": 550,
+    "retweets": 126,
+    "replies": 51
+  },
+  {
+    "id": 59,
+    "username": "cnbc",
+    "text": "Crisis in bonds market! @cnbc confirms interest rates collapse concerns grow #dark #trading #difficult #economy @marketwatch @Reuters @FinancialTimes",
+    "timestamp": "2025-08-16T15:53:02.967082",
+    "likes": "4627",
+    "retweets": 803,
+    "replies": 410
+  },
+  {
+    "id": 60,
+    "username": "business",
+    "text": "Concerning bitcoin data released today. treasury outlook looking grim #concerns #bearish #negative #concerns @marketwatch https://federalreserve.gov/newsevents/pressreleases/monetary20240600.htm",
+    "timestamp": "2025-09-03T15:53:02.967108",
+    "likes": 2701,
+    "retweets": 690,
+    "replies": 308
+  },
+  {
+    "id": 61,
+    "username": "marketwatch",
+    "text": "Loss in bitcoin confidence! @wsjmarkets notes bonds uncertainty increasing #bearish #risk #loss https://wsj.com/articles/market-analysis-46511268285",
+    "timestamp": "2025-09-03T15:53:02.967134",
+    "likes": 2961,
+    "retweets": 741,
+    "replies": 296
+  },
+  {
+    "id": 62,
+    "username": "marketwatch",
+    "text": "Forecast for trading released. @marketwatch provides inflation projections #data #stocks https://federalreserve.gov/newsevents/pressreleases/monetary20234704.htm",
+    "timestamp": "2025-09-07T15:53:02.967158",
+    "likes": 3683,
+    "retweets": 551,
+    "replies": 492
+  },
+  {
+    "id": 63,
+    "username": "SEC_News",
+    "text": "Profitable bitcoin opportunities emerging! trading market surging ahead #gains #finance #crypto #boom @cnbc @SEC_News",
+    "timestamp": "2025-08-28T15:53:02.967174",
+    "likes": 3001,
+    "retweets": 330,
+    "replies": 248
+  },
+  {
+    "id": 64,
+    "username": "business",
+    "text": "Strong earnings performance exceeded expectations. Bright future ahead! #markets https://reuters.com/business/finance/story-7926852",
+    "timestamp": "2025-09-02T15:53:02.967196",
+    "likes": 1063,
+    "retweets": 259,
+    "replies": 106
+  },
+  {
+    "id": 65,
+    "username": "elonmusk",
+    "text": "Awful inflation decline persists! volatility crisis deepening #loss #difficult #economy @federalreserve @elonmusk",
+    "timestamp": "2025-08-29T15:53:02.967211",
+    "likes": 3667,
+    "retweets": 579,
+    "replies": 429
+  },
+  {
+    "id": 66,
+    "username": "marketwatch",
+    "text": "Pessimistic about crash! @marketwatch says bitcoin volatile conditions persist #dark #failure #crisis @FinancialTimes",
+    "timestamp": "2025-09-04T15:53:02.967228",
+    "likes": 181,
+    "retweets": 18,
+    "replies": 15
+  },
+  {
+    "id": 67,
+    "username": null,
+    "text": "Forecast for bonds released. @marketwatch provides bitcoin projections #status #earnings @FinancialTimes @Reuters @business",
+    "timestamp": "2025-08-14T15:53:02.967243",
+    "likes": 1135,
+    "retweets": 159,
+    "replies": 84
+  },
+  {
+    "id": 68,
+    "username": "FinancialTimes",
+    "text": "Weak inflation fundamentals! @FinancialTimes reports GDP fall continues unabated #crisis #bearish #loss #economy @business @federalreserve @Bloomberg",
+    "timestamp": "2025-08-26T15:53:02.967260",
+    "likes": "2490",
+    "retweets": 640,
+    "replies": 130
+  },
+  {
+    "id": 69,
+    "username": "Reuters",
+    "text": "Assessment of crypto status. @federalreserve provides bullish research results #report #analysis #results #trends",
+    "timestamp": "2025-08-19T15:53:02.967277",
+    "likes": 2719,
+    "retweets": 522,
+    "replies": 137,
+    "follower_count": 670229
+  },
+  {
+    "id": 70,
+    "username": "business",
+    "text": "Summary of ethereum developments. @SEC_News releases trading overview #news #findings #earnings @elonmusk @Bloomberg https://finance.yahoo.com/quote/TSLA",
+    "timestamp": "2025-09-07T15:53:02.967307",
+    "likes": 3355,
+    "retweets": 339,
+    "replies": 421
+  },
+  {
+    "id": 71,
+    "username": "wsjmarkets",
+    "text": "Outstanding inflation numbers! Market confidence is rising #markets #investing #ethereum #stocks @FinancialTimes https://federalreserve.gov/newsevents/pressreleases/monetary20238974.htm",
+    "timestamp": "2025-08-17T15:53:02.967340",
+    "likes": 1105,
+    "retweets": 308,
+    "replies": 144
+  },
+  {
+    "id": 72,
+    "username": "Bloomberg",
+    "text": "Rise in trading continues! @Bloomberg notes bitcoin reaching new peaks #gains #bitcoin #earnings #bullish @Reuters",
+    "timestamp": "2025-08-14T15:53:02.967359",
+    "likes": "1725",
+    "retweets": 296,
+    "replies": 197
+  },
+  {
+    "id": 73,
+    "username": "SEC_News",
+    "text": "Negative crypto forecast! @Reuters warns recession risks rising sharply #fall #Fed @Reuters @cnbc @FinancialTimes",
+    "timestamp": "2025-09-02T15:53:02.967380",
+    "likes": 2310,
+    "retweets": 682,
+    "replies": 268
+  },
+  {
+    "id": 74,
+    "username": "wsjmarkets",
+    "text": "Crisis in crash market! @cnbc confirms crash collapse concerns grow #uncertainty #earnings #risk https://wsj.com/articles/market-analysis-90699170336",
+    "timestamp": "2025-08-12T15:53:02.967436",
+    "likes": 3968,
+    "retweets": 598,
+    "replies": 516
+  },
+  {
+    "id": 75,
+    "username": "elonmusk",
+    "text": "Failure in trading strategy! @elonmusk tweets GDP decline accelerating #struggle #economy @business https://cnbc.com/2025/7/20/earnings-report-3767.html",
+    "timestamp": "2025-08-25T15:53:02.967463",
+    "likes": 2062,
+    "retweets": 565,
+    "replies": 231
+  },
+  {
+    "id": 76,
+    "username": "SEC_News",
+    "text": "Dark times for treasury! @Bloomberg reports crypto struggling with challenges #weak #stocks #dark #difficult @cnbc @Reuters @federalreserve",
+    "timestamp": "2025-08-24T15:53:02.967481",
+    "likes": 3468,
+    "retweets": 549,
+    "replies": 209
+  },
+  {
+    "id": 77,
+    "username": "federalreserve",
+    "text": "Disappointing volatility results. Market worried about crypto impact #decline #recession @business @wsjmarkets @Reuters",
+    "timestamp": "2025-08-21T15:53:02.967496",
+    "likes": 856,
+    "retweets": 219,
+    "replies": 121
+  },
+  {
+    "id": 78,
+    "username": "SEC_News",
+    "text": "Pessimistic about crash! @marketwatch says market volatile conditions persist #crash #decline @Reuters",
+    "timestamp": "2025-08-31T15:53:02.967511",
+    "likes": 911,
+    "retweets": 125,
+    "replies": 56
+  },
+  {
+    "id": 79,
+    "username": "business",
+    "text": "Disappointing rally results. Market worried about market impact #crash #weak #loss",
+    "timestamp": "2025-08-19T15:53:02.967525",
+    "likes": 1948,
+    "retweets": 342,
+    "replies": 286
+  },
+  {
+    "id": 80,
+    "username": "marketwatch",
+    "text": "",
+    "timestamp": "2025-09-02T15:53:02.967548",
+    "likes": 679,
+    "retweets": 95,
+    "replies": 42
+  },
+  {
+    "id": 81,
+    "username": "federalreserve",
+    "text": "Crisis in interest rates market! @cnbc confirms Fed collapse concerns grow #risk #crisis @federalreserve https://bloomberg.com/news/articles/2024-11-17/market-update",
+    "timestamp": "2025-08-27T15:53:02.967575",
+    "likes": 4128,
+    "retweets": 1102,
+    "replies": 517,
+    "verified": true
+  },
+  {
+    "id": 82,
+    "username": "Reuters",
+    "text": "Excellent bonds results today! Market showing strong earnings momentum #high #crypto #high #bullish @FinancialTimes",
+    "timestamp": "2025-08-22T15:53:02.967596",
+    "likes": 1298,
+    "retweets": 347,
+    "replies": 72
+  },
+  {
+    "id": 83,
+    "username": "wsjmarkets",
+    "text": "Information about GDP trends. @Bloomberg shares interest rates data collection #summary #news #economy #forecast",
+    "timestamp": "2025-08-18T15:53:02.967610",
+    "likes": 4677,
+    "retweets": 682,
+    "replies": 477
+  },
+  {
+    "id": 84,
+    "username": "cnbc",
+    "text": "Confident about rally outlook! @cnbc reports bullish showing positive trends #momentum #growth #high",
+    "timestamp": "2025-09-05T15:53:02.967624",
+    "likes": 329,
+    "retweets": 62,
+    "replies": 40
+  },
+  {
+    "id": 85,
+    "username": "Bloomberg",
+    "text": "Negative volatility forecast! @Reuters warns bullish risks rising sharply #bearish #recession",
+    "timestamp": "2025-09-09T15:53:02.967636",
+    "likes": 2950,
+    "retweets": 328,
+    "replies": 365,
+    "verified": false
+  },
+  {
+    "id": 86,
+    "username": "Bloomberg",
+    "text": "Statement on stocks developments. @business announces volatility scheduled update #update #bitcoin #ethereum #news https://cnbc.com/2025/12/6/earnings-report-8559.html",
+    "timestamp": "2025-08-23T15:53:02.967665",
+    "likes": 2384,
+    "retweets": 496,
+    "replies": 330
+  },
+  {
+    "id": 87,
+    "username": "federalreserve",
+    "text": "Awful recession decline persists! bonds crisis deepening #dark #negative #uncertainty @marketwatch https://finance.yahoo.com/quote/TSLA",
+    "timestamp": "2025-08-23T15:53:02.967689",
+    "likes": 840,
+    "retweets": 141,
+    "replies": 50,
+    "location": "London"
+  },
+  {
+    "id": 88,
+    "username": "SEC_News",
+    "text": "Bearish outlook on crypto! @SEC_News reports trading facing difficult times #challenges #challenges #risk #failure @wsjmarkets https://reuters.com/business/finance/story-2971317",
+    "timestamp": "2025-08-15T15:53:02.967720",
+    "likes": 3277,
+    "retweets": 478,
+    "replies": 290
+  },
+  {
+    "id": 89,
+    "username": "wsjmarkets",
+    "text": "Assessment of bullish status. @federalreserve provides inflation research results #survey #trading #research #findings @federalreserve @Bloomberg https://example.com/news/2751",
+    "timestamp": "2025-08-24T15:53:02.967747",
+    "likes": 3565,
+    "retweets": 505,
+    "replies": 245
+  },
+  {
+    "id": 90,
+    "username": "SEC_News",
+    "text": "Crisis in bonds market! @cnbc confirms trading collapse concerns grow #challenges #bitcoin #challenges @marketwatch @business @wsjmarkets",
+    "timestamp": "2025-08-21T15:53:02.967763",
+    "likes": 3936,
+    "retweets": 950
+  },
+  {
+    "id": 91,
+    "username": "cnbc",
+    "text": "Bad GDP news today! @federalreserve warns crash showing weak performance #loss @marketwatch @Bloomberg",
+    "timestamp": "2025-08-17T15:53:02.967780",
+    "likes": 4797,
+    "retweets": 1040,
+    "replies": 265
+  },
+  {
+    "id": 92,
+    "username": "cnbc",
+    "text": "Brilliant volatility breakthrough! interest rates showing excellent performance #recovery #momentum @elonmusk @Reuters @business",
+    "timestamp": "2025-08-20T15:53:02.967794",
+    "likes": 1212,
+    "retweets": 312,
+    "replies": 113
+  },
+  {
+    "id": 93,
+    "username": "federalreserve",
+    "text": "Research on earnings progress. @Reuters publishes unemployment study results #data #crypto @marketwatch @Reuters @SEC_News https://cnbc.com/2025/4/10/earnings-report-1156.html",
+    "timestamp": "2025-08-23T15:53:02.967819",
+    "likes": 3669,
+    "retweets": 623,
+    "replies": 516
+  },
+  {
+    "id": 94,
+    "username": "",
+    "text": "Bad bonds news today! @federalreserve warns treasury showing weak performance #loss #dark #bearish #volatile @business @SEC_News",
+    "timestamp": "2025-09-04T15:53:02.967834",
+    "likes": 4086,
+    "retweets": 909,
+    "replies": 533
+  },
+  {
+    "id": 95,
+    "username": "wsjmarkets",
+    "text": "",
+    "timestamp": "2025-08-23T15:53:02.967859",
+    "likes": 2866,
+    "retweets": 717,
+    "replies": 326
+  },
+  {
+    "id": 96,
+    "username": "Bloomberg",
+    "text": "Fantastic interest rates gains today! volatility rally continues strong #recovery #economy #markets @federalreserve @SEC_News",
+    "timestamp": "2025-08-27T15:53:02.967876",
+    "likes": 3736,
+    "retweets": 1081,
+    "replies": 496
+  },
+  {
+    "id": 97,
+    "username": "FinancialTimes",
+    "text": "Awful bitcoin decline persists! market crisis deepening #uncertainty #Fed #risk #crypto @cnbc https://bloomberg.com/news/articles/2024-10-17/market-update",
+    "timestamp": "2025-09-03T15:53:02.967900",
+    "likes": 474,
+    "retweets": 69,
+    "replies": 37,
+    "verified": true
+  },
+  {
+    "id": 98,
+    "username": "business",
+    "text": "Statement on recession developments. @business announces crypto scheduled update #study #bitcoin",
+    "timestamp": "2025-08-13T15:53:02.967918",
+    "engagement": {
+      "metrics": {
+        "likes": 3205,
+        "shares": 771,
+        "comments": 234
+      }
+    }
+  },
+  {
+    "id": 99,
+    "username": "federalreserve",
+    "text": "Weak bitcoin fundamentals! @FinancialTimes reports treasury fall continues unabated #challenges #concerns",
+    "timestamp": "2025-08-20T15:53:02.967934",
+    "likes": 4150,
+    "retweets": 831,
+    "replies": 311
+  },
+  {
+    "id": 100,
+    "username": "FinancialTimes",
+    "text": "Opportunity knocks: volatility surge! @wsjmarkets highlights trading breakthrough moment #expansion #growth #finance @cnbc @wsjmarkets",
+    "timestamp": "2025-08-25T15:53:02.967948",
+    "likes": 4221,
+    "retweets": 555,
+    "replies": 421
+  },
+  {
+    "id": 101,
+    "username": "Reuters",
+    "text": "Good earnings expansion continues! Thanks to @federalreserve bonds growth prospects bright #momentum https://example.com/news/3671",
+    "timestamp": "2025-09-04T15:53:02.967971",
+    "likes": 2214,
+    "retweets": 592,
+    "replies": 275
+  },
+  {
+    "id": 102,
+    "username": "federalreserve",
+    "text": "",
+    "timestamp": "2025-09-06T15:53:02.967986",
+    "likes": 2714,
+    "retweets": 280,
+    "replies": 143
+  },
+  {
+    "id": 103,
+    "username": "elonmusk",
+    "text": "Loss in Fed confidence! @wsjmarkets notes bearish uncertainty increasing #dark #volatile @Bloomberg @federalreserve https://bloomberg.com/news/articles/2024-11-28/market-update",
+    "timestamp": "2025-08-20T15:53:02.968012",
+    "engagement": {
+      "metrics": {
+        "likes": 3825,
+        "shares": 973,
+        "comments": 259
+      }
+    }
+  },
+  {
+    "id": 104,
+    "username": "federalreserve",
+    "text": "Assessment of crash status. @federalreserve provides stocks research results #summary #summary #news #stocks @federalreserve @business @Bloomberg",
+    "timestamp": "2025-08-25T15:53:02.968033",
+    "likes": 1725,
+    "retweets": 388,
+    "replies": 255
+  },
+  {
+    "id": 105,
+    "username": "marketwatch",
+    "text": "Opportunity knocks: bullish surge! @wsjmarkets highlights market breakthrough moment #success #high #crypto #finance",
+    "timestamp": "2025-08-11T15:53:02.968048",
+    "likes": 4991,
+    "retweets": 878,
+    "replies": 366
+  },
+  {
+    "id": 106,
+    "username": "Reuters",
+    "text": "Alarming crash trends continue. Investors losing confidence in market #negative #dark #stocks @cnbc @elonmusk @Reuters",
+    "timestamp": "2025-09-07T15:53:02.968063",
+    "likes": 1907,
+    "retweets": 248,
+    "replies": 231
+  },
+  {
+    "id": 107,
+    "username": "elonmusk",
+    "text": "Outstanding inflation numbers! Market confidence is rising #growth @Reuters @cnbc @federalreserve",
+    "timestamp": "2025-08-26T15:53:02.968082",
+    "likes": 4686,
+    "retweets": 1120,
+    "replies": 477
+  },
+  {
+    "id": 108,
+    "username": "marketwatch",
+    "text": "Forecast for volatility released. @marketwatch provides bonds projections #status #discussion #bitcoin #estimate",
+    "timestamp": "2025-08-16T15:53:02.968097",
+    "likes": 3709,
+    "retweets": 678,
+    "replies": 190
+  },
+  {
+    "id": 109,
+    "username": "SEC_News",
+    "text": "Information about interest rates trends. @Bloomberg shares bullish data collection #analysis #inflation @Reuters @wsjmarkets @cnbc",
+    "timestamp": "2025-09-01T15:53:02.968111",
+    "likes": 1611,
+    "retweets": 345,
+    "replies": 121
+  },
+  {
+    "id": 110,
+    "username": "wsjmarkets",
+    "text": "Concerning trading data released today. GDP outlook looking grim #failure https://reuters.com/business/finance/story-8435573",
+    "timestamp": "2025-09-01T15:53:02.968134",
+    "likes": 3539,
+    "retweets": 601,
+    "replies": 338
+  },
+  {
+    "id": 111,
+    "username": "wsjmarkets",
+    "text": "Opportunity knocks: rally surge! @wsjmarkets highlights earnings breakthrough moment #opportunity #bitcoin #finance",
+    "timestamp": "2025-09-02T15:53:02.968148",
+    "likes": 4472,
+    "retweets": 1294,
+    "replies": 289
+  },
+  {
+    "id": 112,
+    "username": "marketwatch",
+    "text": "Loss in ethereum confidence! @wsjmarkets notes GDP uncertainty increasing #struggle #bearish #bitcoin @FinancialTimes @Bloomberg https://www.sec.gov/news/press-release/2024-89",
+    "timestamp": "2025-09-08T15:53:02.968174",
+    "likes": 218,
+    "retweets": 58,
+    "replies": 13
+  },
+  {
+    "id": 113,
+    "username": "federalreserve",
+    "text": "Disappointing stocks results. Market worried about recession impact #weak #uncertainty",
+    "timestamp": "2025-08-28T15:53:02.968189",
+    "likes": "3592",
+    "retweets": 774,
+    "replies": 307
+  },
+  {
+    "id": 114,
+    "username": "business",
+    "text": "Discussion on earnings outlook. @wsjmarkets hosts market meeting minutes #study #report #trading @elonmusk https://example.com/news/6083",
+    "timestamp": "2025-08-19T15:53:02.968216",
+    "likes": 1878,
+    "retweets": 296,
+    "replies": 251
+  },
+  {
+    "id": 115,
+    "username": "Bloomberg",
+    "text": "Survey on inflation completed. @cnbc reports earnings statistics compiled #report #inflation #estimate #crypto @marketwatch @Bloomberg",
+    "timestamp": "2025-08-21T15:53:02.968232",
+    "likes": 3291,
+    "retweets": 449,
+    "replies": 292
+  },
+  {
+    "id": 116,
+    "username": "Reuters",
+    "text": "Rise in earnings continues! @Bloomberg notes recession reaching new peaks #recovery #rally @marketwatch https://federalreserve.gov/newsevents/pressreleases/monetary20245681.htm",
+    "timestamp": "2025-08-23T15:53:02.968257",
+    "likes": 689,
+    "retweets": 160,
+    "replies": 44
+  },
+  {
+    "id": 117,
+    "username": "elonmusk",
+    "text": "Strong ethereum performance exceeded expectations. Bright future ahead! #finance #success #goodNews @wsjmarkets",
+    "timestamp": "2025-08-13T15:53:02.968272",
+    "likes": 377,
+    "retweets": 53,
+    "replies": 22
+  },
+  {
+    "id": 118,
+    "username": "FinancialTimes",
+    "text": "Assessment of bearish status. @federalreserve provides rally research results #overview #economy #overview #survey @cnbc @wsjmarkets @elonmusk",
+    "timestamp": "2025-08-16T15:53:02.968287",
+    "likes": 3292,
+    "retweets": 526,
+    "replies": 408
+  },
+  {
+    "id": 119,
+    "username": "FinancialTimes",
+    "text": "Bullish on bullish today! @SEC_News confirms stocks recovery gaining momentum #recovery #economy https://cnbc.com/2025/3/17/earnings-report-9350.html",
+    "timestamp": "2025-09-02T15:53:02.968310",
+    "likes": 1975,
+    "retweets": 441,
+    "replies": 142
+  },
+  {
+    "id": 120,
+    "username": "Reuters",
+    "text": "Alarming interest rates trends continue. Investors losing confidence in bearish #risk #recession #failure @elonmusk @business @cnbc",
+    "timestamp": "2025-08-26T15:53:02.968331",
+    "likes": 3083,
+    "retweets": 733,
+    "replies": 412
+  },
+  {
+    "id": 121,
+    "username": "elonmusk",
+    "text": "Statement on crypto developments. @business announces crypto scheduled update #overview #economy #survey #stocks @elonmusk @Bloomberg @FinancialTimes https://wsj.com/articles/market-analysis-19884593131",
+    "timestamp": "2025-08-11T15:53:02.968358",
+    "likes": 3003,
+    "retweets": 323,
+    "replies": 158
+  },
+  {
+    "id": 122,
+    "username": "Bloomberg",
+    "text": "Research on bonds progress. @Reuters publishes recession study results #news @Reuters @federalreserve @marketwatch https://finance.yahoo.com/quote/AAPL",
+    "timestamp": "2025-08-20T15:53:02.968384",
+    "likes": 1176,
+    "retweets": 207,
+    "replies": 134
+  },
+  {
+    "id": 123,
+    "username": "SEC_News",
+    "text": "Disappointing treasury results. Market worried about unemployment impact #weak",
+    "timestamp": "2025-08-14T15:53:02.968408",
+    "likes": 3240,
+    "retweets": 732,
+    "replies": 313
+  },
+  {
+    "id": 124,
+    "username": "cnbc",
+    "text": "Information about GDP trends. @Bloomberg shares ethereum data collection #assessment #forecast #results https://bloomberg.com/news/articles/2025-12-18/market-update",
+    "timestamp": "2025-09-08T15:53:02.968435",
+    "likes": 2227,
+    "retweets": 475,
+    "replies": 227
+  },
+  {
+    "id": 125,
+    "username": "cnbc",
+    "text": "Disappointing Fed results. Market worried about unemployment impact #crisis @marketwatch @wsjmarkets @FinancialTimes",
+    "timestamp": "2025-08-29T15:53:02.968449",
+    "likes": 2815,
+    "retweets": 430,
+    "replies": 177
+  },
+  {
+    "id": 126,
+    "username": "marketwatch",
+    "text": "Regular crash briefing scheduled. treasury updates to follow #update #research #discussion #data",
+    "timestamp": "2025-09-05T15:53:02.968469",
+    "likes": 1498,
+    "retweets": 165,
+    "replies": 163
+  },
+  {
+    "id": 127,
+    "username": "elonmusk",
+    "text": "Bad ethereum news today! @federalreserve warns earnings showing weak performance #volatile @Reuters @FinancialTimes https://example.com/news/5154",
+    "timestamp": "2025-08-18T15:53:02.968493",
+    "likes": 1708,
+    "retweets": 484,
+    "replies": 145
+  },
+  {
+    "id": 128,
+    "username": "federalreserve",
+    "text": "Summary of unemployment developments. @SEC_News releases inflation overview #estimate #findings @Reuters @wsjmarkets @business https://federalreserve.gov/newsevents/pressreleases/monetary20250564.htm",
+    "timestamp": "2025-08-20T15:53:02.968518",
+    "likes": 2912,
+    "retweets": 553,
+    "replies": 382
+  },
+  {
+    "id": 129,
+    "username": "federalreserve",
+    "text": "Crisis in bearish market! @cnbc confirms bullish collapse concerns grow #challenges @Bloomberg @elonmusk @SEC_News",
+    "timestamp": "2025-08-20T15:53:02.968533",
+    "likes": 3136,
+    "retweets": 818,
+    "replies": 195
+  },
+  {
+    "id": 130,
+    "username": "elonmusk",
+    "text": "Brilliant treasury breakthrough! bonds showing excellent performance #expansion #finance #recovery https://reuters.com/business/finance/story-7588380",
+    "timestamp": "2025-09-02T15:53:02.968556",
+    "engagement": {
+      "metrics": {
+        "likes": 389,
+        "shares": 82,
+        "comments": 29
+      }
+    }
+  },
+  {
+    "id": 131,
+    "username": "FinancialTimes",
+    "text": "Brilliant market breakthrough! bonds showing excellent performance #opportunity #investing #boom @elonmusk",
+    "timestamp": "2025-08-23T15:53:02.968574",
+    "likes": 58,
+    "retweets": 15,
+    "replies": 7
+  },
+  {
+    "id": 132,
+    "username": "Reuters",
+    "text": "Concerning GDP data released today. earnings outlook looking grim #loss #earnings #ethereum #failure @wsjmarkets @SEC_News",
+    "timestamp": "2025-08-18T15:53:02.968589",
+    "likes": 2846,
+    "retweets": 812,
+    "replies": 324
+  },
+  {
+    "id": 133,
+    "username": "cnbc",
+    "text": "High interest rates performance! As @elonmusk said, interest rates sector experiencing boom #gains #growth @Reuters @cnbc @marketwatch",
+    "timestamp": "2025-08-19T15:53:02.968604",
+    "likes": 2396,
+    "retweets": 667
+  },
+  {
+    "id": 134,
+    "username": "SEC_News",
+    "text": "Disappointing Fed results. Market worried about inflation impact #recession #bearish #struggle #challenges @wsjmarkets @federalreserve @Bloomberg https://finance.yahoo.com/quote/TSLA",
+    "timestamp": "2025-09-07T15:53:02.968631",
+    "likes": 1881,
+    "retweets": 433,
+    "replies": 101
+  },
+  {
+    "id": 135,
+    "username": "elonmusk",
+    "text": "Brilliant earnings breakthrough! earnings showing excellent performance #finance #investing #positive @federalreserve https://reuters.com/business/finance/story-1049402",
+    "timestamp": "2025-08-31T15:53:02.968655",
+    "likes": 4002,
+    "retweets": 640,
+    "replies": 515
+  },
+  {
+    "id": 136,
+    "username": "marketwatch",
+    "text": "Monthly crypto review complete. rally trends continue as expected #data #overview",
+    "timestamp": "2025-08-18T15:53:02.968668",
+    "likes": 2480,
+    "retweets": 573,
+    "replies": 248
+  },
+  {
+    "id": 137,
+    "username": "elonmusk",
+    "text": "Bearish outlook on market! @SEC_News reports bitcoin facing difficult times #challenges #dark @SEC_News @marketwatch @federalreserve",
+    "timestamp": "2025-09-05T15:53:02.968682",
+    "likes": 4086,
+    "retweets": 711,
+    "replies": 537
+  },
+  {
+    "id": 138,
+    "username": "SEC_News",
+    "text": "Regular ethereum briefing scheduled. recession updates to follow #update #earnings #assessment https://federalreserve.gov/newsevents/pressreleases/monetary20245556.htm",
+    "timestamp": "2025-09-05T15:53:02.968706",
+    "likes": 993,
+    "retweets": 131,
+    "replies": 94
+  },
+  {
+    "id": 139,
+    "username": "business",
+    "text": "Loss in rally confidence! @wsjmarkets notes interest rates uncertainty increasing #fall #weak #struggle @marketwatch @SEC_News @Reuters",
+    "timestamp": "2025-08-30T15:53:02.968721",
+    "likes": 3698,
+    "retweets": 714,
+    "replies": 263
+  },
+  {
+    "id": 140,
+    "username": "federalreserve",
+    "text": "Statement on unemployment developments. @business announces rally scheduled update #forecast #findings #trends #assessment",
+    "timestamp": "2025-09-04T15:53:02.968735",
+    "likes": 4287,
+    "retweets": 1118,
+    "replies": 266
+  },
+  {
+    "id": 141,
+    "username": "federalreserve",
+    "text": "Survey on ethereum completed. @cnbc reports rally statistics compiled #forecast #economy @FinancialTimes @Bloomberg https://www.sec.gov/news/press-release/2023-6",
+    "timestamp": "2025-08-28T15:53:02.968758",
+    "likes": 4871,
+    "retweets": 1282,
+    "replies": 543
+  },
+  {
+    "id": 142,
+    "username": "Reuters",
+    "text": "Assessment of treasury status. @federalreserve provides earnings research results #study #overview #trading @FinancialTimes @elonmusk @Bloomberg",
+    "timestamp": "2025-08-11T15:53:02.968772",
+    "likes": 2394,
+    "retweets": 409,
+    "replies": 351
+  },
+  {
+    "id": 143,
+    "username": "SEC_News",
+    "text": "High recession performance! As @elonmusk said, treasury sector experiencing boom #expansion #high #boom #opportunity @Reuters @marketwatch",
+    "timestamp": "2025-08-27T15:53:02.968787",
+    "likes": 3531,
+    "retweets": 575,
+    "replies": 259
+  },
+  {
+    "id": 144,
+    "username": "FinancialTimes",
+    "text": "Crisis in bullish market! @cnbc confirms unemployment collapse concerns grow #crash",
+    "timestamp": "2025-08-25T15:53:02.968805",
+    "likes": 1089,
+    "retweets": 297,
+    "replies": 75
+  },
+  {
+    "id": 145,
+    "username": "marketwatch",
+    "text": "Good ethereum expansion continues! Thanks to @federalreserve trading growth prospects bright #gains #momentum #recovery #finance @Reuters https://federalreserve.gov/newsevents/pressreleases/monetary20244002.htm",
+    "timestamp": "2025-08-31T15:53:02.968829",
+    "likes": 708,
+    "retweets": 88,
+    "replies": 90
+  },
+  {
+    "id": 146,
+    "username": "wsjmarkets",
+    "text": "Assessment of market status. @federalreserve provides GDP research results #forecast #overview #economy #study @cnbc @wsjmarkets @Bloomberg",
+    "timestamp": "2025-08-11T15:53:02.968845",
+    "engagement": {
+      "metrics": {
+        "likes": 1212,
+        "shares": 357,
+        "comments": 112
+      }
+    }
+  },
+  {
+    "id": 147,
+    "username": "Reuters",
+    "text": "Awful bearish decline persists! earnings crisis deepening #uncertainty #economy #volatile #fall https://reuters.com/business/finance/story-6694864",
+    "timestamp": "2025-09-07T15:53:02.968869",
+    "likes": 858,
+    "retweets": 157,
+    "replies": 70
+  },
+  {
+    "id": 148,
+    "username": "Reuters",
+    "text": "New Fed report published. GDP data shows mixed results #estimate",
+    "timestamp": "2025-08-22T15:53:02.968882",
+    "likes": 3760,
+    "retweets": 786,
+    "replies": 382
+  },
+  {
+    "id": 149,
+    "username": "federalreserve",
+    "text": "Opportunity knocks: market surge! @wsjmarkets highlights bonds breakthrough moment #bullish #crypto #positive @marketwatch @Bloomberg @business",
+    "timestamp": "2025-08-17T15:53:02.968898",
+    "likes": 2389,
+    "retweets": 245,
+    "replies": 299
+  },
+  {
+    "id": 150,
+    "username": "business",
+    "text": "Statement on inflation developments. @business announces market scheduled update #data #ethereum @Reuters https://reuters.com/business/finance/story-4550798",
+    "timestamp": "2025-08-29T15:53:02.968921",
+    "likes": 1046,
+    "retweets": 279,
+    "replies": 57
+  },
+  {
+    "id": 151,
+    "username": "elonmusk",
+    "text": "Loss in bitcoin confidence! @wsjmarkets notes bearish uncertainty increasing #challenges #struggle",
+    "timestamp": "2025-08-21T15:53:02.968934",
+    "likes": 1629,
+    "retweets": 397
+  },
+  {
+    "id": 152,
+    "username": "cnbc",
+    "text": "Monthly Fed review complete. bonds trends continue as expected #data #analysis #inflation #estimate @SEC_News @cnbc",
+    "timestamp": "2025-08-24T15:53:02.968950",
+    "likes": 4566,
+    "retweets": 1157,
+    "replies": 410
+  },
+  {
+    "id": 153,
+    "username": "cnbc",
+    "text": "Discussion on inflation outlook. @wsjmarkets hosts stocks meeting minutes #trends #forecast @elonmusk https://finance.yahoo.com/quote/MSFT",
+    "timestamp": "2025-08-21T15:53:02.968975",
+    "likes": 1130,
+    "retweets": 234,
+    "replies": 128
+  },
+  {
+    "id": 154,
+    "username": "cnbc",
+    "text": "Opportunity knocks: bearish surge! @wsjmarkets highlights bonds breakthrough moment #momentum #crypto #finance",
+    "timestamp": "2025-08-12T15:53:02.968989",
+    "likes": 1196,
+    "retweets": 157,
+    "replies": 152
+  },
+  {
+    "id": 155,
+    "username": "Bloomberg",
+    "text": "Excellent trading results today! Market showing strong volatility momentum #opportunity #finance @Reuters @federalreserve",
+    "timestamp": "2025-08-20T15:53:02.969004",
+    "likes": 4324,
+    "retweets": 441,
+    "replies": 393
+  },
+  {
+    "id": 156,
+    "username": "SEC_News",
+    "text": "Amazing bitcoin growth this quarter! inflation sector looking fantastic #breakthrough #momentum @marketwatch @elonmusk",
+    "timestamp": "2025-08-25T15:53:02.969017",
+    "likes": 4478,
+    "retweets": 1156,
+    "replies": 578
+  },
+  {
+    "id": 157,
+    "username": "federalreserve",
+    "text": "Analysis of crypto trends. earnings findings now available #study #trading @elonmusk @marketwatch",
+    "timestamp": "2025-08-19T15:53:02.969031",
+    "likes": 4926,
+    "retweets": 749,
+    "replies": 581
+  },
+  {
+    "id": 158,
+    "username": "cnbc",
+    "text": "Good inflation expansion continues! Thanks to @federalreserve Fed growth prospects bright #high #positive @wsjmarkets",
+    "timestamp": "2025-08-12T15:53:02.969044",
+    "likes": 2361,
+    "retweets": 365,
+    "replies": 236
+  },
+  {
+    "id": 159,
+    "username": "elonmusk",
+    "text": "Profitable crash opportunities emerging! crypto market surging ahead #recovery #bitcoin @marketwatch",
+    "timestamp": "2025-08-31T15:53:02.969058",
+    "likes": 2120,
+    "retweets": 534,
+    "replies": 192
+  },
+  {
+    "id": 160,
+    "username": "business",
+    "text": "Brilliant stocks breakthrough! bearish showing excellent performance #markets #rally @business",
+    "timestamp": "2025-09-06T15:53:02.969071",
+    "likes": 4909,
+    "retweets": 1241,
+    "replies": 321
+  },
+  {
+    "id": 161,
+    "username": "elonmusk",
+    "text": "Failure in GDP strategy! @elonmusk tweets volatility decline accelerating #concerns #crash #stocks #failure @elonmusk https://cnbc.com/2025/11/9/earnings-report-7309.html",
+    "timestamp": "2025-08-16T15:53:02.969094",
+    "likes": 2619,
+    "retweets": 633,
+    "replies": 285
+  },
+  {
+    "id": 162,
+    "username": "business",
+    "text": "Information about bitcoin trends. @Bloomberg shares recession data collection #update @wsjmarkets",
+    "timestamp": "2025-09-05T15:53:02.969110",
+    "likes": 215,
+    "retweets": 31,
+    "replies": 25
+  },
+  {
+    "id": 163,
+    "username": "FinancialTimes",
+    "text": "Fantastic bonds gains today! bitcoin rally continues strong #rally #inflation #high #boom @wsjmarkets @Reuters @business",
+    "timestamp": "2025-08-28T15:53:02.969126",
+    "likes": 1732,
+    "retweets": 515,
+    "replies": 252
+  },
+  {
+    "id": 164,
+    "username": "business",
+    "text": "Assessment of crash status. @federalreserve provides rally research results #study #trading #inflation #news @cnbc @business",
+    "timestamp": "2025-08-30T15:53:02.969141",
+    "likes": 3436,
+    "retweets": 428,
+    "replies": 343
+  },
+  {
+    "id": 165,
+    "username": "cnbc",
+    "text": "Alarming treasury trends continue. Investors losing confidence in crypto #crash",
+    "timestamp": "2025-08-23T15:53:02.969153",
+    "likes": 4379,
+    "retweets": 604,
+    "replies": 433
+  },
+  {
+    "id": 166,
+    "username": "federalreserve",
+    "text": "Research on rally progress. @Reuters publishes volatility study results #discussion @federalreserve @Reuters @cnbc",
+    "timestamp": "2025-09-08T15:53:02.969167",
+    "likes": 564,
+    "retweets": 137,
+    "replies": 32
+  },
+  {
+    "id": 167,
+    "username": "wsjmarkets",
+    "text": null,
+    "timestamp": "2025-08-26T15:53:02.969193",
+    "likes": 174,
+    "retweets": 24,
+    "replies": 23
+  },
+  {
+    "id": 168,
+    "username": "cnbc",
+    "text": "Excellent volatility results today! Market showing strong ethereum momentum #rise #success @marketwatch @cnbc https://bloomberg.com/news/articles/2024-12-18/market-update",
+    "timestamp": "2025-08-23T15:53:02.969221",
+    "likes": 843,
+    "retweets": 92,
+    "replies": 106,
+    "verified": true
+  },
+  {
+    "id": 169,
+    "username": "FinancialTimes",
+    "text": "Monthly treasury review complete. earnings trends continue as expected #report #stocks #overview @wsjmarkets @cnbc",
+    "timestamp": "2025-09-06T15:53:02.969240",
+    "likes": 1522,
+    "retweets": 191,
+    "replies": 98
+  },
+  {
+    "id": 170,
+    "username": "Bloomberg",
+    "text": "Fantastic bullish gains today! Fed rally continues strong #high #inflation #high",
+    "timestamp": "2025-08-28T15:53:02.969254",
+    "likes": 2104,
+    "retweets": 581,
+    "replies": 133
+  },
+  {
+    "id": 171,
+    "username": "elonmusk",
+    "text": "Confident about interest rates outlook! @cnbc reports trading showing positive trends #positive #growth #goodNews @marketwatch",
+    "timestamp": "2025-09-05T15:53:02.969268",
+    "engagement": {
+      "metrics": {
+        "likes": 1827,
+        "shares": 450,
+        "comments": 194
+      }
+    }
+  },
+  {
+    "id": 172,
+    "username": "business",
+    "text": "Brilliant interest rates breakthrough! bonds showing excellent performance #expansion #expansion #economy #breakthrough @FinancialTimes @SEC_News",
+    "timestamp": "2025-08-24T15:53:02.969286",
+    "likes": 945,
+    "retweets": 203,
+    "replies": 49
+  },
+  {
+    "id": 173,
+    "username": "SEC_News",
+    "text": "Bad bitcoin news today! @federalreserve warns ethereum showing weak performance #negative #crypto #failure #risk @cnbc @elonmusk @Reuters",
+    "timestamp": "2025-08-30T15:53:02.969301",
+    "likes": 2225,
+    "retweets": 338,
+    "replies": 229
+  },
+  {
+    "id": 174,
+    "username": "Bloomberg",
+    "text": "Analysis of bitcoin trends. trading findings now available #results #info",
+    "timestamp": "2025-08-12T15:53:02.969314",
+    "likes": 3174,
+    "retweets": 888,
+    "replies": 375
+  },
+  {
+    "id": 175,
+    "username": "elonmusk",
+    "text": "Loss in ethereum confidence! @wsjmarkets notes unemployment uncertainty increasing #crisis @cnbc @marketwatch",
+    "timestamp": "2025-08-12T15:53:02.969336",
+    "likes": 928,
+    "retweets": 156,
+    "replies": 90
+  },
+  {
+    "id": 176,
+    "username": "Reuters",
+    "text": "Dark times for bullish! @Bloomberg reports market struggling with challenges #dark #challenges #risk #trading https://example.com/news/8391",
+    "timestamp": "2025-08-17T15:53:02.969360",
+    "likes": 910,
+    "retweets": 156,
+    "replies": 135
+  },
+  {
+    "id": 177,
+    "username": "elonmusk",
+    "text": "New GDP report published. bitcoin data shows mixed results #overview #update @federalreserve @wsjmarkets @cnbc",
+    "timestamp": "2025-08-26T15:53:02.969375",
+    "likes": 1772,
+    "retweets": 344,
+    "replies": 234
+  },
+  {
+    "id": 178,
+    "username": "cnbc",
+    "text": "Discussion on stocks outlook. @wsjmarkets hosts Fed meeting minutes #research #ethereum #results #Fed",
+    "timestamp": "2025-08-31T15:53:02.969412",
+    "likes": 1667,
+    "retweets": 375,
+    "replies": 231
+  },
+  {
+    "id": 179,
+    "username": "cnbc",
+    "text": "Latest bullish figures released. ethereum sector shows no major changes #summary #stocks #estimate",
+    "timestamp": "2025-08-31T15:53:02.969437",
+    "likes": 1166,
+    "retweets": 328,
+    "replies": 164
+  },
+  {
+    "id": 180,
+    "username": "Reuters",
+    "text": "New inflation report published. GDP data shows mixed results #update #data #bitcoin @wsjmarkets @marketwatch",
+    "timestamp": "2025-08-21T15:53:02.969462",
+    "likes": 429,
+    "retweets": 74,
+    "replies": 47
+  },
+  {
+    "id": 181,
+    "username": "cnbc",
+    "text": "Statement on volatility developments. @business announces rally scheduled update #findings #overview #assessment",
+    "timestamp": "2025-08-11T15:53:02.969480",
+    "likes": 489,
+    "retweets": 138,
+    "replies": 30
+  },
+  {
+    "id": 182,
+    "username": "federalreserve",
+    "text": "Alarming treasury trends continue. Investors losing confidence in unemployment #decline #weak @cnbc @business",
+    "timestamp": "2025-09-08T15:53:02.969497",
+    "retweets": 608,
+    "replies": 213
+  },
+  {
+    "id": 183,
+    "username": "Bloomberg",
+    "text": "Dark times for bitcoin! @Bloomberg reports stocks struggling with challenges #risk @wsjmarkets https://reuters.com/business/finance/story-8974305",
+    "timestamp": "2025-08-16T15:53:02.969522",
+    "likes": 79,
+    "retweets": 22,
+    "replies": 5
+  },
+  {
+    "id": 184,
+    "username": "Reuters",
+    "text": "Excellent unemployment results today! Market showing strong rally momentum #boom @FinancialTimes @SEC_News",
+    "timestamp": "2025-08-14T15:53:02.969537",
+    "likes": 4489,
+    "retweets": 763,
+    "replies": 555
+  },
+  {
+    "id": 185,
+    "username": "FinancialTimes",
+    "text": "Forecast for bullish released. @marketwatch provides rally projections #report #bitcoin #stocks @Bloomberg",
+    "timestamp": "2025-08-27T15:53:02.969551",
+    "likes": 3060,
+    "retweets": 603,
+    "replies": 208
+  },
+  {
+    "id": 186,
+    "username": "elonmusk",
+    "text": "Fantastic bullish gains today! recession rally continues strong #boom @Reuters",
+    "timestamp": "2025-08-22T15:53:02.969564",
+    "likes": 442,
+    "retweets": 77,
+    "replies": 38
+  },
+  {
+    "id": 187,
+    "username": "Bloomberg",
+    "text": "Amazing inflation growth this quarter! crypto sector looking fantastic #gains #success #high #bitcoin @federalreserve https://federalreserve.gov/newsevents/pressreleases/monetary20251208.htm",
+    "timestamp": "2025-09-09T15:53:02.969591",
+    "likes": 3900,
+    "retweets": 727,
+    "replies": 246
+  },
+  {
+    "id": 188,
+    "username": "Bloomberg",
+    "text": "Opportunity knocks: interest rates surge! @wsjmarkets highlights GDP breakthrough moment #momentum #markets #finance #gains @FinancialTimes",
+    "timestamp": "2025-08-30T15:53:02.969607",
+    "likes": 2213,
+    "retweets": 291,
+    "replies": 305
+  },
+  {
+    "id": 189,
+    "username": "marketwatch",
+    "text": "High crash performance! As @elonmusk said, bonds sector experiencing boom #investing #positive @marketwatch https://bloomberg.com/news/articles/2023-12-12/market-update",
+    "timestamp": "2025-08-11T15:53:02.969632",
+    "likes": 4002,
+    "retweets": 869,
+    "replies": 446
+  },
+  {
+    "id": 190,
+    "username": "business",
+    "text": "Summary of bitcoin developments. @SEC_News releases interest rates overview #summary #economy #study https://www.sec.gov/news/press-release/2025-21",
+    "timestamp": "2025-08-12T15:53:02.969655",
+    "likes": 4469,
+    "retweets": 493,
+    "replies": 571
+  },
+  {
+    "id": 191,
+    "username": "cnbc",
+    "text": "Disappointing crypto results. Market worried about treasury impact #struggle @federalreserve @business",
+    "timestamp": "2025-08-15T15:53:02.969668",
+    "likes": 3142,
+    "retweets": 317,
+    "replies": 314
+  },
+  {
+    "id": 192,
+    "username": "elonmusk",
+    "text": "Good recession expansion continues! Thanks to @federalreserve bonds growth prospects bright #boom #investing #stocks @cnbc @wsjmarkets @marketwatch",
+    "timestamp": "2025-08-18T15:53:02.969683",
+    "likes": 1831,
+    "retweets": 363,
+    "replies": 123
+  },
+  {
+    "id": 193,
+    "username": "cnbc",
+    "text": "Forecast for stocks released. @marketwatch provides market projections #results #trading #findings @elonmusk @Bloomberg",
+    "timestamp": "2025-09-06T15:53:02.969698",
+    "likes": 871,
+    "retweets": 244,
+    "replies": 84
+  },
+  {
+    "id": 194,
+    "username": "FinancialTimes",
+    "text": "Loss in bullish confidence! @wsjmarkets notes earnings uncertainty increasing #weak https://finance.yahoo.com/quote/MSFT",
+    "timestamp": "2025-08-24T15:53:02.969720",
+    "likes": 3817,
+    "retweets": 585,
+    "replies": 394
+  },
+  {
+    "id": 195,
+    "username": "federalreserve",
+    "text": "Loss in crash confidence! @wsjmarkets notes inflation uncertainty increasing #uncertainty @Bloomberg @SEC_News",
+    "timestamp": "2025-08-25T15:53:02.969740",
+    "likes": 1823,
+    "retweets": 302,
+    "replies": 113
+  },
+  {
+    "id": 196,
+    "username": "SEC_News",
+    "text": "Bullish on inflation today! @SEC_News confirms bearish recovery gaining momentum #investing #stocks @cnbc @elonmusk @marketwatch https://cnbc.com/2025/11/22/earnings-report-8968.html",
+    "timestamp": "2025-08-15T15:53:02.969764",
+    "likes": 3985,
+    "retweets": 614,
+    "replies": 286
+  },
+  {
+    "id": 197,
+    "username": "business",
+    "text": "Outstanding unemployment numbers! Market confidence is rising #markets #momentum #opportunity #gains @business @wsjmarkets @Bloomberg",
+    "timestamp": "2025-08-27T15:53:02.969779",
+    "likes": 870,
+    "retweets": 219,
+    "replies": 70
+  },
+  {
+    "id": 198,
+    "username": "business",
+    "text": "Bearish outlook on bullish! @SEC_News reports GDP facing difficult times #failure #failure #bitcoin @wsjmarkets https://reuters.com/business/finance/story-5299439",
+    "timestamp": "2025-08-30T15:53:02.969803",
+    "likes": 489,
+    "retweets": 134,
+    "replies": 50
+  },
+  {
+    "id": 199,
+    "username": "Bloomberg",
+    "text": "Great news on trading! Investors are optimistic about bitcoin outlook #opportunity #economy @federalreserve @elonmusk",
+    "timestamp": "2025-08-16T15:53:02.969817",
+    "likes": 3749,
+    "retweets": 701,
+    "replies": 407
+  },
+  {
+    "id": 200,
+    "username": "cnbc",
+    "text": "Survey on bonds completed. @cnbc reports trading statistics compiled #study #report #info @business @Bloomberg https://finance.yahoo.com/quote/GOOGL",
+    "timestamp": "2025-09-01T15:53:02.969844",
+    "likes": 1007,
+    "retweets": 271,
+    "replies": 146
+  }
+]
